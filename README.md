@@ -20,8 +20,8 @@
 ## Команды Gulp 
 
 - cd Clear_gulp
-- Gulp 
-- gulp build
+- Gulp - dev разработка
+- gulp build - деплой в dist
 
 ## Добавить Materialize
 
