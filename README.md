@@ -22,6 +22,11 @@
 - cd Clear_gulp
 - Gulp 
 
+## Добавить Materialize
+
+- Materialize - npm install materialize-css@next
+- gulpfile.js - 44я строчка 'node_modules/materialize-css/dist/js/materialize.min.js',
+
 ## Добавить 
 
 - dist - Модуль для деплоя
