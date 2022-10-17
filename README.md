@@ -31,3 +31,8 @@
 ## В планах добавить 
 
 - bem - Бем блоки 
+
+## Settings 
+
+- Scss - .pipe(scss({outputStyle: 'expanded'})) - css - Не сжато
+- Scss - .pipe(scss({outputStyle: 'compressed'})) - css - Сжато
